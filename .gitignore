@@ -1,0 +1,7 @@
+data/
+submissions/
+outputs/
+.venv/
+kaggle.json
+gnn_step.py
+.DS_Store
