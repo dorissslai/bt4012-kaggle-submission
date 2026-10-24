@@ -39,7 +39,7 @@ this in its first cell.
 | Path | What it is |
 |---|---|
 | `e0968110.ipynb` | Final notebook: data, validation, both models, blend, submission |
-| `notebooks/01_eda.ipynb` to `notebooks/16_gnn_seeds_blend.ipynb` | Experiment notebooks, in the order they were run |
+| `notebooks/01_eda.ipynb` to `notebooks/17_class_weight.ipynb` | Experiment notebooks, in the order they were run |
 | `experiment_log.md` | Every experiment and submission, with validation and leaderboard scores, and the AI-usage record |
 | `requirements.txt` | Pinned package versions |
 | `data/`, `submissions/`, `outputs/` | Not committed (competition data, submission files, saved GNN predictions) |
